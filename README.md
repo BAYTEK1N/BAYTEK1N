@@ -5,19 +5,19 @@ I'm Burak who nowadays works on cyber sec. and network engineering. I'm currentl
 
 ---
 
-**Skills:** 
+### **Skills:** 
 - 💲C# / Python / JS / HTML / CSS 
 - 💻Linux / Windows / MAC
 - ☁️Cisco Network Devices
 
 ---
-#### Q&A's
+### Q&A's
 - 🔭 I’m currently working on CCNA 201-301 
 - 🌱 I’m currently learning JS 
 - 📫 How to reach me: You can reach me on my social media accounts or my email addresses. 
 
 ---
-#### **Wanna contact?** Follow me on social media platforms!
+### **Wanna contact?** Follow me on social media platforms!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BAYTEK1N)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burak-aytekin-0b54a4206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009370865113)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/baytekin_12//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Burak12aytekin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Baytek1n)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](burakfarukaytekin06@gmail.com)  
 
