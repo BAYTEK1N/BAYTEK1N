@@ -13,7 +13,7 @@ I'm Burak who nowadays works on cyber sec. and network engineering. I'm currentl
 ---
 ### Q&A's
 - 🔭 I’m currently working on CCNA 200-301 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning Kotlin 
 - 📫 How to reach me: You can reach me on my social media accounts or my email addresses. 
 
 ---
