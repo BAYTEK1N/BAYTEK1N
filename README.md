@@ -26,5 +26,3 @@ I'm Burak who nowadays works on cyber sec. and network engineering. I'm currentl
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAYTEK1N&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/BAYTEK1N)  
-
-![Profile views](https://gpvc.arturio.dev/BAYTEK1N)  
