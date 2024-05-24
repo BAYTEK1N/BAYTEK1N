@@ -6,7 +6,7 @@ I'm Burak who nowadays works on cyber sec. and network engineering. I'm currentl
 ---
 
 ### **Skills:** 
-- 💲C# / Python / JS / HTML / CSS 
+- 💲C# / Python / JS / HTML / CSS / KOTLIN / JAVA
 - 💻Linux / Windows / MAC
 - ☁️Cisco Network Devices
 
