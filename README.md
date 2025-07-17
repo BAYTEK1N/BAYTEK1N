@@ -1,7 +1,7 @@
 ![](https://pbs.twimg.com/profile_banners/1107366245266083841/1678910790/1500x500)
 # Burak AYTEKİN
 
-I'm Burak who nowadays works on cyber sec. and network engineering. I'm currently studying at Technopark Istanbul Vocational and Technical Anatolian High School (***Cyber Security High School***).
+I'm Burak who nowadays works on cyber sec. and network engineering. I'm graduated from Technopark Istanbul Vocational and Technical Anatolian High School (***Cyber Security High School***).
 
 ---
 
